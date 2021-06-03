@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peruula</title>
+            <author>Stanbridge, John, 1463-1510.</author>
+         </titleStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A12874</idno><idno type="EEBO-CITATION">34382825</idno>
+  <idno type="VID">29094</idno>
+  <idno type="EEBO-PROQUEST">2240914644</idno>
+  <idno type="STC">STC 23163.9</idno>
+  <idno type="STC">ESTC S4035</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A12874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1905:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peruula</title>
+                  <author>Stanbridge, John, 1463-1510.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Emprentyd by me Nicole marcãt,</publisher>
+                  <pubPlace>[Paris] :</pubPlace>
+                  <date>[1500]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Stanbridge by STC (2nd ed.).</note>
+                  <note>Title and publisher from colophon.</note>
+                  <note>Place and date of publication from STC (2nd ed.).</note>
+                  <note>A₁r begins: [W]hat thou shalt do whan thou haste an en-/glisshe to be made in latyn.</note>
+                  <note>Colophon reads: Here endeth a treatise called p[er]uula. For the instruction of children. Emprentyd by me Nicole marcãt.</note>
+                  <note>Imperfect: torn, with loss of text.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in: John Rylands University Library of Manchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Latin language --  Grammar.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:29094:1"/>
+            <pb facs="tcp:29094:1"/>
+            <p>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Hat shalt thou do whan thou haste an en<g ref="char:EOLhyphen"/>glisshe to be made in latyn. I shal reherce myn englisshe first ones: twyes: or thries. and loke oute / my principal verbe: &amp; aske him this questiō: who: or what. And that worde that answereth to te question shalle be the noīatyf case to the verbe. But if it be a verbe im{per}sonal as in this en<g ref="char:EOLhyphen"/>sāple. The master techith scolers. Techys is the ver<g ref="char:EOLunhyphen"/>be. wo techeth. The master techith The master shal be noiatyf case to the verbe. And that worde that cō<g ref="char:EOLhyphen"/>meth after the verbe shal most comonly be the accusa<g ref="char:EOLunhyphen"/>tyf case. As magister docet me. And whanne I haue an adiectyf nowne / {pro}nowne / {per}ticiple / or relatyf. I shal aske this question forsaide: who or what / &amp; that worde that aunsweryth therto shalle be the substāty<g ref="char:EOLunhyphen"/>ue to the adiectyf / and the antecedent to the relatyf. ¶when .ii. substantyues cūmeth to gedir: longyng bothe to one thynge they shalbe putte in one case. As my fad{er} a man loueth me a child. Pater meus vir dili<g ref="char:EOLunhyphen"/>git me puerū. The noīatyf case and the verbe accor<g ref="char:EOLhyphen"/>de in .ii. in whiche .ii. in nōbre: &amp; in {per}sone: as ego lego tu legis: ille legit.</p>
+            <p>Verbum cum recto di<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concordare duobus. Persona / numero: sic tradit regula nobis.</p>
+            <p>¶The adiectyf and the substātyf shal accorde ī.iij. whiche .iij. in case / gēder / and nombre.</p>
+            <p>Cum substantiuis tribus adiectiua locabis In casu / genere / numero: da mobile fixo.</p>
+            <p>¶The relatyue and the antecedent shal accorde in thre. in whiche thre: in gēder / nōbre / &amp; person. As pa<g ref="char:EOLunhyphen"/>ter meus qui. mater mea que. caput meum quod.</p>
+            <p>Cum precedente tri<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>is coniūge relatum. Persona / numero / sit <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>¶The nowne {per}titiu<gap reason="illegible: torn page" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that fo<g ref="char:EOLhyphen"/>loweth
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:29094:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:29094:2"/>
+               <pb facs="tcp:29094:3"/> shal accorde in gener only. v{er}.</p>
+            <p>Est {per}titiui genus vt genus est genitiui.</p>
+            <p>¶The nowne of the su{per}latyue degre shal accord in gener only with the genityf case folowynge. as Rosa est pulcherrimus florum.</p>
+            <p>Omne superlatum genitiuo sit sociatum. At{que} suo generi conforme cupit retineri.</p>
+            <p>Vt pateatverum sic est deus optima rerum.</p>
+            <p>¶Two noīatyf cases singulier with a {con}iūctiō copu<g ref="char:EOLunhyphen"/>latyf bitwene wyl haue a v{er}be plurel. as ego et tu legī{us}</p>
+            <p>Dant in pluraliverbum iuncti duo recti.</p>
+            <p>¶Two substantiues with a coniunction copulatyf bitwene wyl haue an adiectyf plurel.</p>
+            <p>Substantiua duo si singula sint tibi iuncta.</p>
+            <p>Tunc adiectiuum sem{per} plurale requirunt.</p>
+            <p>¶Two antecedens singuler with a coniunction co<g ref="char:EOLhyphen"/>pulatyf bitwene wyl haue a relatyf plurel.</p>
+            <p>Post duo nomina singula des plurale relatum ¶when my noīatyf case cōmeth bitwene the relatyf &amp; the verbe the relatyf shalbe suche case as the verbe wyl haue after him &amp; that is the moste comōly the ac<g ref="char:EOLunhyphen"/>cusatif case: as ego quē magister docet timeo virgā. ¶whenne no nōintif case cōmeth bitwene the rela<g ref="char:EOLhyphen"/>tif and the verbe than the relatif shalbe the noīatif case supponēt to the verbe as ego qui scribo sedeo. If the v{er}be that in cōmeth nexte the relatif be a v{er}be im{per}<g ref="char:EOLunhyphen"/>sonal then shalbe the relatif be suche case as the v{er}be im{per}sonal req<seg rend="sup">i</seg>reth: as ego cui opponitur attendo. v{er}.</p>
+            <p>Si quis structuram verborum noscere gliscat. Horum naturam per metra sequentia discat</p>
+            <p>¶Howe many verbes haf strengith to cople like ca<g ref="char:EOLhyphen"/>se / verbes substātiues <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>inge to be v{er}bes voca<g ref="char:EOLhyphen"/>tiues: as noī<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>por / vocor / and dicor an<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ameth / v{er}bes passiues
+<pb facs="tcp:29094:3"/> as eligor / reputo<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / ordinor. And generally when the worde that gothe bifore the verbe and the worde that folowet the verbe lōge bothe to one thynge what ma<g ref="char:EOLunhyphen"/>nere of verbe that euyr it be put bothe in one case As ego sum puer: et tu vocaris iohannes. Pater me{us} eli<g ref="char:EOLhyphen"/>git{ur} maior lōdoniarū: laic{us} nō sedet iudex in causis ec<g ref="char:EOLunhyphen"/>clesiasticis.</p>
+            <p>Sum fio maneo dic existo fore consto Presto persisto cum subsisto simul exto.</p>
+            <p>Quādo notant substans similes deposcere casus. Verba vocatiua vim consimilem retinebunt</p>
+            <p>Nominor appellor sic nūcupor addito dicor Etvocor / et quedā passiua sic eligor vrbis.</p>
+            <p>Prefectus reputor sapiens fit hoc generale. Si quorum precedatverbū verbūue sequatur</p>
+            <p>Pertineant ad idem casu ponantur eodem Eminet apparet sedeo iudex eo velox</p>
+            <p>Hec poscunt similes post se <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rese quo{que} casus.</p>
+            <p>¶Desino desinis desijvel desini desinere desinēdi do dū desitū tu desinens desiturus. Anglice to sesse or to leue of: et potest cōstrui cū genitiuo et ablatiuo cū {pre}<g ref="char:EOLhyphen"/>positione ista a vel ab: vt desino ludi vel a ludo</p>
+            <p>Desinet abstineo dabis indigeo genitiuo Ast auget et dominor misererevalz careo{que}</p>
+            <p>Inuideo potior accuso consulo consto Arguo cum dāpno moneo reprehēdo recordor.</p>
+            <p>Et memini dignor obliuiscor reminiscor Participo recolo miror tu cetera quere.</p>
+            <p>¶Alle v{er}bes folowinge moost cōmōly {con}strue with a datif case after theym and in the passif voyce they be v{er}bes ī{per}sonales: as mihi obuiat{ur}: tibi {per}cit{ur}: ingt̄o non placetur.</p>
+            <p>Obuio parco placet responded seruio nocet. Precipit opponit concludo iunge datiuis.</p>
+            <pb facs="tcp:29094:4"/>
+            <p>Supplicet arridet faueo vaco proficit horret. Subuenit addatur succurrit propiciatur.</p>
+            <p>Congruo compatior confert succedit adulor. Sufficit aspiratvaledico gratulor astat.</p>
+            <p>Imminet equiualet alludit obedit obstat. Occurrit astat et cedo quando locum dat.</p>
+            <p>Insideor pateo minor ast obtēpero fido. Derogo condoleo preiudico detono defert.</p>
+            <p>Suppetit his iungas que sum cōponit eis das Hec et {quam}plura ternis coniungere cura.</p>
+            <p>¶Thies v{er}bes folowing wyl cōstre with .ii. accusa<g ref="char:EOLhyphen"/>tyf case. And ther passiues wit the lattre v{er}.</p>
+            <p>Postulo posco peto doceo rogo flagito celo. Exuo cumvestit monet induo calceo cingo</p>
+            <p>Accusatiuos geminos hecverba requirunt. Passiuis quorum postremis iungitur horum ¶when this sygne the foloweth a nowne adiectyf: v{er}<g ref="char:EOLunhyphen"/>be: or {per}ticiple<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> betokenynge part or al the casuel wor<g ref="char:EOLunhyphen"/>de folowynge this sygne in metre oft tymes is put in the accusatyf case: as virgo venusta faciē: in {pro}se ī the ablatyf case: as venusta facie v{er}.</p>
+            <p>Adiectiua regunt passiua verba{que} neutra Accusatiuos per synodochen sibi iunctos</p>
+            <p>Cum partes toti tribuantur totave parti Sed potius metris {quam} prosis synodoche fit.</p>
+            <p>¶Thies v{er}bes folowyng haue an ablatyf case after</p>
+            <p>Vestitur et fruitur caretvtitur at{que} potitur. Hec ablatiuos transitione regunt</p>
+            <p>Et iungas careo plus sexto {quam} genitiuo.</p>
+            <p>¶Vescor ceris caret {pre}terito vesci: to ete. Fruor is to vse a thinge for it selue or to haue delite ther in: as fru<g ref="char:EOLunhyphen"/>or deo bonis suis: fruor amico{rum} colloquio: fruor tuo cantu. Vtor risvsus sūvti to vse: or to were a thynge for a nother cause then for it self as vtor armis vtor<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:29094:4"/> brisvtor studio<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ungor ris functussū fūgi to vse or to holde an office. Potior poteris vel potiris potitus sū potiri to haue or to opteyne: vtrex potit{us} est victoria.</p>
+            <p>Diuinis fruimur exoptatis{que} potimur. Vtimur vtilibus fungimur officio.</p>
+            <p>Vescimur <gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>escis cum potu delitiis{que}.</p>
+            <p>¶A nowne substantyf or a {pro}nowne with a {per}ticiple depending of an other shalbe put in the ablatyf case absolute: as magistro docente pueri {pro}ficiunt. me vi<g ref="char:EOLhyphen"/>dente sol lucet. v{er}.</p>
+            <p>Est ablatiuus quando{que} regente solutus. Si nomen vel {pro}nomen cum participante.</p>
+            <p>Iungitur et nullum dependens est sibiverbū. Vtvento flante gradior socio comitante.</p>
+            <p>Gaudet meviuo mater dolet at{que} sepu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to.</p>
+            <p>¶Thies .v. verbes im{per}sonalles: penitet / tedet / mi<g ref="char:EOLhyphen"/>seret / pudet: and piget wyl haue the accusatyue case in the stede of the noīatyf case: &amp; a genityf case in the stede of the accusatyue case. as penitet me tui: tedet animā meamvite mee. v{er}.</p>
+            <p>Penitet et tedet miseret pudet et piget ista Accusatiuos poscunt simul et genitiuos</p>
+            <p>Natura primum sed transitione secundum.</p>
+            <p>¶Thies verbes im{per}sonalles wyl cōstrue with a da<g ref="char:EOLunhyphen"/>tyf case: as libet mihi: licet tibi</p>
+            <p>Hec libet at{que} licet placet et libet accidit adde. Congruit et e<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nit contingit expedit inde.</p>
+            <p>Pertinet incumbit vacat tedet quo{que} prestat Cum reliquis paribus intersociato datiuis.</p>
+            <p>¶Alle verbes im{per}sonales of the passyf voce: wyl ha<g ref="char:EOLunhyphen"/>ue a datif or an ablatiue case with a {pre}position: as mi<g ref="char:EOLunhyphen"/>chi opponit{ur}: a rege pugnatur.</p>
+            <p>Passiue vocis im{per}sonale datiuis.</p>
+            <p>Aut sexto iungas cum preposito preeunte.</p>
+            <pb facs="tcp:29094:5"/>
+            <p>A pueris itur a preceptore venitur</p>
+            <p>Regiseruitur sed nō sibi credo placetur.</p>
+            <p>¶when the englisshe of the īfinitif mode cōmeth af<g ref="char:EOLhyphen"/>ter any of thies nownes t{pre}s causa locus &amp;c. it may be putt ī a gerūdiue ī di: as t{pre}s est orādi: causā hēo flēdi Tempus causa locus libertas ius{que} voluntas.</p>
+            <p>Ars modus at{que} licentia &amp; omnia talia que{que}. Prima solent post se vocitare gerundia iure.</p>
+            <p>Est tēpus flendi non est mihi causa dolendi. Que nunc narrandi nō locus affricus inquit.</p>
+            <p>¶when the englisshe of the īfinityf mode cōmeth af<g ref="char:EOLunhyphen"/>ter a v{er}be or a {per}ticiple betokenynge besechyng or praī<g ref="char:EOLunhyphen"/>ge: or the englisshe: of a {per}ticiple: of the {pre}sentēs cōmet after a nowne adiectif with this syne of: it may be put in a gerūdiue in do as I am wery of sittynge / faynt of fastyng. Ego fessus sedēdo: fatigatur ieiunādo</p>
+            <p>Pone gerundia do post rogitantia verba. Post adiectiu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mater mea fessa sedendo</p>
+            <p>Te rogo de dando veniā mihi de{que} mirando.</p>
+            <p>¶when the signification: of a {per}ticiple: of the {pre}sēttēs cōmeth after a nowne substātiue with this {pre}position in: a fore him it may be put in a gerūdiue in do</p>
+            <p>Participans presens post substantiua repostū. In{que} gerundiuo vel participante locato.</p>
+            <p>Vt gladiatores pugnando vulnera figunt. Est in cantando frater meus orpheus alter.</p>
+            <p>¶when the {per}ticiple faileth I shal take the same tēs: of the v{er}be that the {per}ticiple shuld com of &amp; the relatyf q<seg rend="sup">i</seg> putt ī the noīatif case: and it be a v{er}be ī{per}sonal the re<g ref="char:EOLunhyphen"/>latif shalbe such case as the v{er}be ī{per}sonal requireth af<g ref="char:EOLhyphen"/>ter him: as I am apposed. Ego sū cui opponit{ur}. My fader is riden. Pater meus est a quo equitatur</p>
+            <p>Si tibi participans desit quo pone relatum Tēpus idem qui sui quod deposcit fore verbi.</p>
+            <pb facs="tcp:29094:5"/>
+            <p>¶when the englisshe of the īfītiue mode cōmez after a reasō and tellith the cause of the resō it may beputī a gerūdiue ī dū with this {pre}positiō ad as veīo ad discē Ad dū cā dabit nō ē cib{us} ad {con}medēdū (dū gramaticā.</p>
+            <p>Ad mea tergendū vulnera mappa deest.</p>
+            <p>¶A gerūdiue in dū may cōme in spech with this in<g ref="char:EOLunhyphen"/>ter: as inter sedendū: &amp; dū sederent: as they walke inter ambulandū. as they rode: inter equitandū.</p>
+            <p>Inter quando{que} cum dum {pre}ponitur apte Inter prandendū pro dū pranderet habetur</p>
+            <p>Hinc maro fit testis age titere &amp; inter agendū. Occursare capro cornu fert ille caueto.</p>
+            <p>¶when the signification of the infinitif modo folo<g ref="char:EOLhyphen"/>with this englisshe it is. As the kynge it is to sitte: sco<g ref="char:EOLunhyphen"/>lers it is to study or must nedis studye. Regē pugnā<g ref="char:EOLhyphen"/>dū est: scolares studendū est omnino. It shalbe putt ī a gerūdiue in dū with this v{er}be est put im{per}sonally.</p>
+            <p>Im{per}sonale verbo est quo{que} <gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>̄gitur ecce.</p>
+            <p>Vincendū est hostes regē per prelia no<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rū</p>
+            <p>¶when the englisshe of the īfinitiue mode cōmeth af<g ref="char:EOLunhyphen"/>ter a v{er}be or a {per}ticiple betokenyng meuynge or goyn<g ref="char:EOLhyphen"/>ge to a place: it may be put in the firste supine. Fro a place in the later supine: as vado v<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>natū veīo venatu.</p>
+            <p>Post motus verbū bene ponis vtrū{que} su{per}inū. Ad loca vult primū devult signare secundū.</p>
+            <p>¶In the stede of the first supine failyng I shall put a gerundiue in dum with this {pre}position ad. And in<g ref="char:EOLunhyphen"/>stede of the later supine failyng I shal put the gerun<g ref="char:EOLunhyphen"/>dyf in do with any of thies a de ab.</p>
+            <p>Pone gerundiuū tibi deficiente supino. Ad dum pro primo de cum do pone secundo</p>
+            <p>Ad bona discendū dogmata pergo celer De bona discendi dogmata nunc venio.</p>
+            <p>¶when the englisshe of the infinityue mo<g ref="char:EOLhyphen"/>de
+<pb facs="tcp:29094:6"/> commeth after a nowne adiectyf endyng in ilis or in bilis it may be putt in the latter supyne. As Virgi<g ref="char:EOLhyphen"/>lius. Nec vifu facilis nec dictu effabilis vlli. Salusti<g ref="char:EOLunhyphen"/>us. Incredibile memoratu / miserabile auditu. v{er}.</p>
+            <p>Post adiectiuū bilis ac ilis esto secundum. Flebilis auditu: minor est agilis puer actu.</p>
+            <p>¶when the englisshe of the infinityue mode cōmeth after sum es fui: it shalbe put in a participle of the fu<g ref="char:EOLunhyphen"/>ture tens in rus if it be of actyue voce. in rus: as ma<g ref="char:EOLhyphen"/>gister est docturus: scolares sunt docendi. v{er}.</p>
+            <p>Participans in rus post sum tu pone vel in dus Vt sum lecturus nasonis carmina summa</p>
+            <p>Laus adhibenda deo provictis hostibus esto.</p>
+            <p>¶How many tens be formyd of the {pre}terit {per}fetēs: of the indicatyf mode .vi. whiche vi. the {pre}terplu{per}fectēs of the same mode. the {pre}ter{per}fectens. and the {pre}terplu<g ref="char:EOLhyphen"/>fectens. and the futur tens. of the cōiūctyf mode: the {pre}ter{per}fectens: of the infinityf mode.</p>
+            <p>¶How many turnyth I in e: &amp; how many holde I styl .iij. turneth i in e: &amp; .iij. hold i. whiche .iij. turneth the {pre}terplu{per}fectens: of the indicatyf mode: the prete<g ref="char:EOLunhyphen"/>rit {per}fectens: of the coniunctyf mode: and the futur<g ref="char:EOLunhyphen"/>tēs: of the same mode. As legi: turne I into e and put herto a ram: and thanne it is legeram. Legi: turne I into e: and put therto a rim: it is legerim Legi: turne i into e: and put therto a ro it is legero. whiche .iii. hol<g ref="char:EOLunhyphen"/>dith I stylle: I soyle the {pre}terit plus{quam}{per}fectens: of the optatiue mode: &amp; the {pre}terit plu{per}fectens: of the cōiū<g ref="char:EOLhyphen"/>ctyf mode. and the {pre}terit plus{quam}{per}fectēs: of the infini<g ref="char:EOLhyphen"/>tiue mode. as legi: put therto an s and a sem: and thē it is legissē. Legi put therto an s and a se and then we haue legisse.</p>
+            <trailer>¶Here endeth a treatise called {per}uula. For the instru<g ref="char:EOLunhyphen"/>ction of children. Emprentyd by me Nicole marcāt.</trailer>
+            <pb facs="tcp:29094:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
